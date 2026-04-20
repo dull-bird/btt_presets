@@ -1,12 +1,12 @@
 # BetterTouchTool Trackpad Preset Guide
 
-*[Read this in Chinese / 中文版本](README_CN.md)*
+*[中文版本](README_CN.md)*
 
 This document introduces the shortcut gestures and keyboard shortcut logic included in the current [BetterTouchTool (BTT)](https://folivora.ai/) preset. You can quickly get started by following these gesture instructions, or share it with others as a user reference.
 
-## 🚀 Quick Start / 如何导入
+## 🚀 Quick Start
 
-1. Download the `trackpad.bttpreset` file.
+1. Download the `QuickActions.bttpreset` file.
 2. Open **BetterTouchTool**.
 3. Go to **Manage Presets** (top right corner).
 4. Click **Import** and select the downloaded file.
@@ -18,17 +18,16 @@ This document introduces the shortcut gestures and keyboard shortcut logic inclu
 
 Global gestures are applicable to almost all daily applications and usage scenarios. For memory and feedback convenience, some gestures will display an exclusive Emoji Head-Up Display (HUD) on the screen when triggered.
 
-### ☝️ 3-Finger Gestures
+### 🤟 3-Finger Gestures
 Mainly used for **window management** and **tab switching**.
 
 | Action | Execution (Shortcut) | HUD |
 | :--- | :--- | :--- |
-| **Swipe Down** | `Command + W` (Close current window/tab) | 🥝 |
-| **Swipe Up** | `Command + Tab` (Switch applications) | 🔙 |
-| **Swipe Left** | `Ctrl + Tab` (Next tab) | ⬅️ |
+| **Swipe Down** | `Command + W` (Close current window/tab) | None |
+| **Swipe Up** | `Command + Tab` (Switch applications) | None |
+| **Swipe Left** | `Ctrl + Tab` (Next tab) | None |
 | **Swipe Right** | `Ctrl + Shift + Tab` (Previous tab) | None |
 | **Click** | Maximize window to **Next Display** | ✈️ |
-| **Tap** | `Option (⌥) + Click` (Trigger special click like Quick Look/Menu) | None |
 | **Double Tap** | `Ctrl + Cmd + D` (Look up dictionary at cursor) | None |
 
 **Advanced 3-Finger Gestures with Modifiers**:
@@ -37,7 +36,7 @@ Mainly used for **window management** and **tab switching**.
 * Hold `Option (⌥)` + **Swipe Up**: Enter app fullscreen mode (if supported)
 * Hold special modifier (Fn) + **Swipe Down**: Close the window hovered under cursor
 
-### ✌️ 4-Finger Gestures
+### 🖖 4-Finger Gestures
 Mainly used for **app-level control** and **system tools**.
 
 | Action | Execution (Shortcut) | HUD |
