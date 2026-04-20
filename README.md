@@ -45,6 +45,9 @@ Mainly used for **window management** and **tab switching**.
 ### 🖖 4-Finger Gestures
 Mainly used for **app-level control** and **system tools**.
 
+> [!CAUTION]
+> **Safety Warning**: 4-finger **Swipe Down** is mapped to `Command + Q` (Quit Application). Use it with caution as it can be easily triggered by accident. You can manually disable this gesture in BTT if you find it too risky.
+
 | Action | Execution (Shortcut) | HUD |
 | :--- | :--- | :--- |
 | **Swipe Down** | `Command + Q` (Quit current application) | 🥥 |
