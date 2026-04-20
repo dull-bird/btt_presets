@@ -99,18 +99,17 @@ The preset provides dedicated adaptations for specific applications:
 
 To ensure the best experience and avoid conflicts with macOS native gestures, we recommend the following settings in **System Settings > Trackpad**:
 
-### 1. Point & Click
-- **Tap to Click**: **On** (Highly recommended for fluid interaction).
-- **Look up & data detectors**: **Off** (To prevent conflicts with 3-finger taps).
-
-![Point & Click Settings](assets/macos_settings_click.png)
-
-### 2. More Gestures
-- **Swipe between pages**: Set to **Two Fingers** or **Off** (BTT handles advanced navigation).
-- **Swipe between full-screen apps**: Set to **Four Fingers** (This frees up **Three Fingers** for all the window management magic in this preset).
+### 1. More Gestures
+- **Swipe between pages**: Set to **Two Fingers** (Recommended).
+- **Swipe between full-screen apps**: Set to **Four Fingers** (frees up **Three Fingers** for BTT).
 - **Mission Control / App Exposé**: Set to **Four Fingers**.
 
-![More Gestures Settings](assets/macos_settings_gestures.png)
+![More Gestures Settings](assets/mac_trackpad_settings_1.png)
+
+### 2. Scroll & Zoom
+- **Natural scrolling**: **On** (Default).
+
+![Scroll & Zoom Settings](assets/mac_trackpad_settings_2.png)
 
 ---
 
