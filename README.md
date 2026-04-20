@@ -4,6 +4,16 @@
 
 This document introduces the shortcut gestures and keyboard shortcut logic included in the current [BetterTouchTool (BTT)](https://folivora.ai/) preset. You can quickly get started by following these gesture instructions, or share it with others as a user reference.
 
+## 🚀 Quick Start / 如何导入
+
+1. Download the `trackpad.bttpreset` file.
+2. Open **BetterTouchTool**.
+3. Go to **Manage Presets** (top right corner).
+4. Click **Import** and select the downloaded file.
+5. Make sure the preset is enabled and "Global" is selected.
+
+---
+
 ## 🌐 Global Gestures
 
 Global gestures are applicable to almost all daily applications and usage scenarios. For memory and feedback convenience, some gestures will display an exclusive Emoji Head-Up Display (HUD) on the screen when triggered.

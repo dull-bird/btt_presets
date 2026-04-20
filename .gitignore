@@ -1,0 +1,13 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear in the same folder of a MacBook
+.Spotlight-V100
+.Trashes

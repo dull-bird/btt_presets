@@ -4,6 +4,16 @@
 
 这份文档介绍了当前 [BetterTouchTool (BTT)](https://folivora.ai/) 预设中包含的快捷手势和快捷键逻辑。你可以根据这些手势介绍快速上手，或者将它分享给其他人作为使用参考。
 
+## 🚀 快速开始 / How to Import
+
+1. 下载 `trackpad.bttpreset` 文件。
+2. 打开 **BetterTouchTool**。
+3. 点击右上角的 **Manage Presets**（管理预设）。
+4. 点击 **Import**（导入）并选择下载的文件。
+5. 确认预设已启用且“Global”已被勾选。
+
+---
+
 ## 🌐 全局手势
 
 全局手势适用于几乎所有日常应用及使用场景。为了方便记忆与反馈，部分手势在触发时屏幕上会显示专属的 Emoji 提示（HUD）。
