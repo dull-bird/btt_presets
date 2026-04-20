@@ -27,6 +27,7 @@ Mainly used for **window management** and **tab switching**.
 | **Swipe Up** | `Command + Tab` (Switch applications) | None |
 | **Swipe Left** | `Ctrl + Tab` (Next tab) | None |
 | **Swipe Right** | `Ctrl + Shift + Tab` (Previous tab) | None |
+| **Click** | Maximize window to **Next Display** | ✈️ |
 | **Double Tap** | `Ctrl + Cmd + D` (Look up dictionary at cursor) | None |
 
 ![Three Fingers Close Tab Demo](assets/three_fingers_close_tab.gif)
