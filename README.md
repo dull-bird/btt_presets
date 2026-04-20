@@ -95,6 +95,25 @@ The preset provides dedicated adaptations for specific applications:
 
 ---
 
+## 🛠️ Recommended System Settings / 系统设置建议
+
+To ensure the best experience and avoid conflicts with macOS native gestures, we recommend the following settings in **System Settings > Trackpad**:
+
+### 1. Point & Click
+- **Tap to Click**: **On** (Highly recommended for fluid interaction).
+- **Look up & data detectors**: **Off** (To prevent conflicts with 3-finger taps).
+
+![Point & Click Settings](assets/macos_settings_click.png)
+
+### 2. More Gestures
+- **Swipe between pages**: Set to **Two Fingers** or **Off** (BTT handles advanced navigation).
+- **Swipe between full-screen apps**: Set to **Four Fingers** (This frees up **Three Fingers** for all the window management magic in this preset).
+- **Mission Control / App Exposé**: Set to **Four Fingers**.
+
+![More Gestures Settings](assets/macos_settings_gestures.png)
+
+---
+
 ## ⚙️ General Settings & Tuning
 
 The preset includes in-depth system-level tuning (BTTGeneralSettings), which not only improves gesture trigger success rates but also optimizes the native macOS experience:
