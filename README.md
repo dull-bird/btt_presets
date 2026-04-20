@@ -52,7 +52,7 @@ Mainly used for **app-level control** and **system tools**.
 
 | Action | Execution (Shortcut) | HUD |
 | :--- | :--- | :--- |
-| **Swipe Down** | `Command + Q` (Quit current application) | 🥥 |
+| **Swipe Down** | `Command + Q` (Quit current application) | None |
 | **Double Tap** | Open macOS native screenshot/recording tool (Mojave+)| None |
 
 
